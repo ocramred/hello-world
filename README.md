@@ -1,10 +1,10 @@
 # hello-world
-first repo with hello world tutorial
+## this is my test repo for gitHub
 
-this is to try what happens
+nothing special here to see
 
-# Hello-universe
-<h1>is what language</h1>
+## different syntax
+<h2>new infos inside</h2>
 <link>http://whatislo.ve</link>
 
 
