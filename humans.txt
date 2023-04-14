@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Marco Kempf -- Mastermind -- <twitter>
 
 # THANKS
 
-    <name>
+    marcokempf
 
 # TECHNOLOGY COLOPHON
 
